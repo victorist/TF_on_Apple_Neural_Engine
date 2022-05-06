@@ -1,3 +1,3 @@
 import logging
 import tensorflow as tf
-print('----1')
+print('Версия Tensorflow -',tf.__version__)

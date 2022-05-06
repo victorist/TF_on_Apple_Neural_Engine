@@ -1,5 +1,5 @@
 import tensorflow as tf
-tf.__version__
+print('Tensorflow version -',tf.__version__)
 print('Проверка настройки использования GPU')
 print('По окончании теста должно быть такое сообщение:')
 print(60*'_')
